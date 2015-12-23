@@ -1,0 +1,1 @@
+Persian QWERTY Keyboard project plan to add persian/Arabic QWERTY Keyboard layout to multiple platforms including windows and Linux.
